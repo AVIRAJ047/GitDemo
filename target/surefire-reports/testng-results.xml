@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22" started-at="2020-01-09T12:37:08Z" finished-at="2020-01-09T12:37:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22" started-at="2020-01-09T12:37:08Z" finished-at="2020-01-09T12:37:08Z">
+      <class name="MavenProject.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:MavenProject.RESTAPITest@735f7ae5]" name="deleteTwitter" duration-ms="0" started-at="2020-01-09T18:07:08Z" finished-at="2020-01-09T18:07:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:MavenProject.RESTAPITest@735f7ae5]" name="postJira" duration-ms="0" started-at="2020-01-09T18:07:08Z" finished-at="2020-01-09T18:07:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- MavenProject.RESTAPITest -->
+      <class name="MavenProject.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAUtomation()[pri:0, instance:MavenProject.SeleniumTest@4e04a765]" name="BrowserAUtomation" duration-ms="5" started-at="2020-01-09T18:07:08Z" finished-at="2020-01-09T18:07:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAUtomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:MavenProject.SeleniumTest@4e04a765]" name="elementsUi" duration-ms="1" started-at="2020-01-09T18:07:08Z" finished-at="2020-01-09T18:07:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- MavenProject.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
